@@ -1,13 +1,13 @@
 ### How to install and config jenkins
 #1.ติดตั้ง jenkines และ สามารถ Pull code จาก GitHub ได้
 1.เมื่อเปิดตัวติดตั้งขึ้นมาให้กด Next
-<img src="https://github.com/Tineoo/Assignment-1/edit/main/image_jenkins/1.jpg" width="500"/>
+<img src="https://github.com/Tineoo/Assignment-1/tree/main/image_jenkins/1.jpg" width="500"/>
 2.เลือกโฟลเดอร์ที่จะลง jenkins
-<img src="https://github.com/Tineoo/Assignment-1/edit/main/image_jenkins/2.jpg" width="500"/>
+<img src="https://github.com/Tineoo/Assignment-1/tree/main/image_jenkins/2.jpg" width="500"/>
 3.ใส่ username pasword ของเครือง
-<img src="https://github.com/Tineoo/Assignment-1/edit/main/image_jenkins/3.jpg" width="500"/>
+<img src="https://github.com/Tineoo/Assignment-1/tree/main/image_jenkins/3.jpg" width="500"/>
 4.กด test Credentials 
-<img src="https://github.com/Tineoo/Assignment-1/edit/main/image_jenkins/4.jpg" width="500"/>
+<img src="https://github.com/Tineoo/Assignment-1/tree/main/image_jenkins/4.jpg" width="500"/>
 5.เข้าไปที่ LOCAL security policy
 <img src="https://github.com/Tineoo/Assignment-1/edit/main/image_jenkins/5.jpg" width="500"/>
 6.เลือกดังรูป
